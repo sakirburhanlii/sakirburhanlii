@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Şakir or In Other Words (Åžakir)</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<div class="tenor-gif-embed" data-postid="16985061" data-share-method="host" data-aspect-ratio="0.928125" data-width="100%"><a href="https://tenor.com/view/im-waiting-daffy-duck-impatient-gif-16985061">Im Waiting Daffy Duck GIF</a>from <a href="https://tenor.com/search/im+waiting-gifs">Im Waiting GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div>
+  <img src="https://media.tenor.com/tIJuBC1opesAAAAC/im-waiting-daffy-duck.gif"/>
+</div>
 
 <p align="left"> <a href="https://twitter.com/sakirburhanli" target="blank"><img src="https://img.shields.io/twitter/follow/sakirburhanlii?logo=twitter&style=for-the-badge" alt="sakirburhanlii" /></a> </p>
 
