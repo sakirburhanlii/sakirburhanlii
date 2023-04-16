@@ -3,6 +3,15 @@
 
 <div>
   <img src="https://media.tenor.com/tIJuBC1opesAAAAC/im-waiting-daffy-duck.gif"/>
+  <p text-align="right" >I am someone who has developed an interest in software development and I am constantly striving to improve myself. I am committed to expanding my knowledge and skill set in order to create better and more sophisticated projects. I work hard to quickly assimilate new information and to develop new projects.
+
+In order to stay ahead of the constantly changing world of software development, I make it a priority to stay up to date with the latest technologies and approaches. By learning about and experimenting with new technologies, I am able to take my projects to the next level. My disciplined approach to work and my analytical thinking skills help ensure that the projects I produce are of the highest quality.
+
+For me, software development is a boundless realm of experience. Developing software means approaching problems from different angles, finding innovative solutions, and thinking creatively. This is why I am constantly seeking to improve myself and gain experience in different areas.
+
+Since I entered the world of software development, I have worked on numerous projects and gained a wealth of experience. I have worked both individually and as part of a team and always strive for the best possible outcome.
+
+I believe that I will continue to contribute to the world of software development and achieve even greater success in the future. By constantly improving myself, staying up to date with technological advancements, and managing my projects in a disciplined manner, I am working to build a successful career in software development. </p>
 </div>
 
 <p align="left"> <a href="https://twitter.com/sakirburhanli" target="blank"><img src="https://img.shields.io/twitter/follow/sakirburhanlii?logo=twitter&style=for-the-badge" alt="sakirburhanlii" /></a> </p>
